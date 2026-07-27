@@ -1,0 +1,19 @@
+{
+  "source_key": "whyashthakker__agent-skills-marketing",
+  "repo_url": "https://github.com/whyashthakker/agent-skills-marketing",
+  "commit": "985b4becb89bf441c1abd714177a8f99079bd25e",
+  "source_relative_path": ".claude/skills/backlink-optimizer/SKILL.md",
+  "source_skill_sha256": "0857fa6adbe4eb529cc4a5d50b0a01ce9c68520cb5543c9d0b7f15fe7181bac0",
+  "source_tree_sha256": "60e070d2989c34f27bce97e612ce7b622462a314873256bb31d1717ac501c1e5",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 52,
+  "public_branding_applied": true,
+  "product_display_name": "高质量外链获取计划｜简诗 AI",
+  "product_slug": "backlink-optimizer",
+  "productization": "简诗 AI canonical v1",
+  "product_summary": "围绕目标页面、可链接资产和竞品缺口制定外链优先级、目标网站类型与可执行的拓展角度。"
+}

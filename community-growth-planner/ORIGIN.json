@@ -1,0 +1,19 @@
+{
+  "source_key": "whyashthakker__agent-skills-marketing",
+  "repo_url": "https://github.com/whyashthakker/agent-skills-marketing",
+  "commit": "985b4becb89bf441c1abd714177a8f99079bd25e",
+  "source_relative_path": ".claude/skills/community-growth-planner/SKILL.md",
+  "source_skill_sha256": "9f15b0770c813e66d60be769163e753f2c7ce0efd4beaefeb1a348e68decf390",
+  "source_tree_sha256": "759f96e039017487ca312d2acb9becf3e42f4ce212225ad74314e584c5018d24",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 55,
+  "public_branding_applied": true,
+  "product_display_name": "社群增长飞轮设计｜简诗 AI",
+  "product_slug": "community-growth-planner",
+  "productization": "简诗 AI canonical v1",
+  "product_summary": "围绕邀请、激活、贡献和留存设计社群增长循环、参与节奏与大使机制，让社区持续产生价值和增长。"
+}

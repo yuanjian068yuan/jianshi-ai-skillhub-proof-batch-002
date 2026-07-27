@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ahrefs SEO数据自动分析｜简诗 AI"
+  short_description: "使用Ahrefs Python SDK调用外链、关键词、排名、站点审计和AI品牌提及数据，构建可复用的SEO分析流程。"
+  default_prompt: "使用 $ahrefs-python 完成“Ahrefs SEO数据自动分析”任务，并给出可执行结果。"

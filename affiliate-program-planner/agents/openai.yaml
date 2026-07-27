@@ -1,0 +1,4 @@
+interface:
+  display_name: "联盟分销增长计划设计｜简诗 AI"
+  short_description: "根据产品毛利和合作伙伴类型设计佣金、招募、赋能、追踪与归因规则，搭建可持续的联盟分销计划。"
+  default_prompt: "使用 $affiliate-program-planner 完成“联盟分销增长计划设计”任务，并给出可执行结果。"

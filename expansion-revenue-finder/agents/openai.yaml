@@ -1,4 +1,0 @@
-interface:
-  display_name: "增长流量·增购收入机会发现器｜简诗 AI"
-  short_description: "处理增购收入机会发现器相关任务"
-  default_prompt: "使用 $expansion-revenue-finder 完成这项增购收入机会发现器任务，并给出可执行结果。"

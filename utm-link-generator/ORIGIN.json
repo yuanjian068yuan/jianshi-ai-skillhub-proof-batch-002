@@ -1,0 +1,19 @@
+{
+  "source_key": "OneWave-AI__claude-skills",
+  "repo_url": "https://github.com/onewave-ai/claude-skills",
+  "commit": "27f8cdcea225e627a73de89b9a3d477af9e249da",
+  "source_relative_path": "utm-link-generator/SKILL.md",
+  "source_skill_sha256": "fc06ac365dcac384d7c54441ffe5128e12a7f1b54cb584021e867ca98208350e",
+  "source_tree_sha256": "c336b6cdae83b3d9393651504d0fb0f2dac841d6a23428d191a0231723648451",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 49,
+  "public_branding_applied": true,
+  "product_display_name": "全渠道UTM追踪链接管理｜简诗 AI",
+  "product_slug": "utm-link-generator",
+  "productization": "简诗 AI canonical v1",
+  "product_summary": "统一LinkedIn、邮件、社媒和广告的UTM命名规范，批量生成可追踪链接并防止重复和参数漂移。"
+}

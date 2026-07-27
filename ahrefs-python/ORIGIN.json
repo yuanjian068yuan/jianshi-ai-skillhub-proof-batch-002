@@ -1,0 +1,19 @@
+{
+  "source_key": "OpenClaudia__openclaudia-skills",
+  "repo_url": "https://github.com/OpenClaudia/openclaudia-skills",
+  "commit": "bdd8b4ff4ed9c231ff22a8900c4ec390d717ab64",
+  "source_relative_path": "skills/ahrefs-research/SKILL.md",
+  "source_skill_sha256": "9276e442b7311d4b928ca9b890e6be012e7e2edaf7d0e5cddab9518346707c93",
+  "source_tree_sha256": "122f35d228863daa15130f26764805fece9f15a7460145091bcc2edf283b4847",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 51,
+  "public_branding_applied": true,
+  "product_display_name": "Ahrefs SEO数据自动分析｜简诗 AI",
+  "product_slug": "ahrefs-python",
+  "productization": "简诗 AI canonical v1",
+  "product_summary": "使用Ahrefs Python SDK调用外链、关键词、排名、站点审计和AI品牌提及数据，构建可复用的SEO分析流程。"
+}

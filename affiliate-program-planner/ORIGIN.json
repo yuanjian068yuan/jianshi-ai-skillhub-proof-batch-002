@@ -1,0 +1,19 @@
+{
+  "source_key": "whyashthakker__agent-skills-marketing",
+  "repo_url": "https://github.com/whyashthakker/agent-skills-marketing",
+  "commit": "985b4becb89bf441c1abd714177a8f99079bd25e",
+  "source_relative_path": ".claude/skills/affiliate-program-planner/SKILL.md",
+  "source_skill_sha256": "ba84081dbaa1d0dd744864c57811433d564276cbb7e5338b9d89497bb88369ee",
+  "source_tree_sha256": "752108a218a40f9a74804493090b58f341b8ac87c19c4d67e93a2a0ee9db7ad0",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 50,
+  "public_branding_applied": true,
+  "product_display_name": "联盟分销增长计划设计｜简诗 AI",
+  "product_slug": "affiliate-program-planner",
+  "productization": "简诗 AI canonical v1",
+  "product_summary": "根据产品毛利和合作伙伴类型设计佣金、招募、赋能、追踪与归因规则，搭建可持续的联盟分销计划。"
+}

@@ -1,4 +1,0 @@
-interface:
-  display_name: "增长流量·付费墙助手｜简诗 AI"
-  short_description: "处理付费墙助手相关任务"
-  default_prompt: "使用 $paywalls 完成这项付费墙助手任务，并给出可执行结果。"
