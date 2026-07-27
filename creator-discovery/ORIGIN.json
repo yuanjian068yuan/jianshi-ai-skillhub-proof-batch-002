@@ -1,0 +1,18 @@
+{
+  "source_key": "whyashthakker__agent-skills-marketing",
+  "repo_url": "https://github.com/whyashthakker/agent-skills-marketing",
+  "commit": "985b4becb89bf441c1abd714177a8f99079bd25e",
+  "source_relative_path": ".claude/skills/creator-discovery/SKILL.md",
+  "source_skill_sha256": "cf17a3fd7ae2441c04fb0d4e3e4787463c639b05d7fe4f92b3d5e4bda802f33b",
+  "source_tree_sha256": "fe5d451a66683361464c9c214a02cef53c23cc63c7383f007ff44bf21f5d25ab",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 12,
+  "public_branding_applied": true,
+  "product_display_name": "增长流量·创造者发现助手｜简诗 AI",
+  "product_slug": "creator-discovery",
+  "productization": "简诗 AI canonical v1"
+}

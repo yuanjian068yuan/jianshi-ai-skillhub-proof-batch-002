@@ -1,0 +1,4 @@
+interface:
+  display_name: "增长流量·核心支持者识别器｜简诗 AI"
+  short_description: "处理核心支持者识别器相关任务"
+  default_prompt: "使用 $champion-identifier 完成这项核心支持者识别器任务，并给出可执行结果。"

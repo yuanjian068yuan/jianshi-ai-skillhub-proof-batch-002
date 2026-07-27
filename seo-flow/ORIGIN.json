@@ -1,0 +1,18 @@
+{
+  "source_key": "AgriciDaniel__claude-seo",
+  "repo_url": "https://github.com/AgriciDaniel/claude-seo",
+  "commit": "09d37c7b66ed3ca9c6efbdb765a805a6c76a8f01",
+  "source_relative_path": "skills/seo-flow/SKILL.md",
+  "source_skill_sha256": "721c745cb0e89ea6f7225d62977fe6335957c51dbd399080490876885690f59b",
+  "source_tree_sha256": "512797267c896bfc7aae7dd821cf52f7a233ef9caba76e9599c76a9149a8a3ba",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 10,
+  "public_branding_applied": true,
+  "product_display_name": "增长流量·SEO流程助手｜简诗 AI",
+  "product_slug": "seo-flow",
+  "productization": "简诗 AI canonical v1"
+}

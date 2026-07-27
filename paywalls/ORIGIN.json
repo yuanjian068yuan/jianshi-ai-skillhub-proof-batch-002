@@ -1,0 +1,18 @@
+{
+  "source_key": "coreyhaines31__marketingskills",
+  "repo_url": "https://github.com/coreyhaines31/marketingskills",
+  "commit": "c21a984a56da10fb6085e6334f6f60929220a4da",
+  "source_relative_path": "skills/paywalls/SKILL.md",
+  "source_skill_sha256": "d062c03f6b99e76ffaa367a1494ba80098b2033d4d74609b895373a024a8eac1",
+  "source_tree_sha256": "f7f794c9a314131afa059c99384a19a6ae5d7378bc5f8f1670114dd57283665f",
+  "effective_license": "MIT",
+  "license_files": [
+    "LICENSE"
+  ],
+  "target_category": "growth-traffic",
+  "selected_rank": 14,
+  "public_branding_applied": true,
+  "product_display_name": "增长流量·付费墙助手｜简诗 AI",
+  "product_slug": "paywalls",
+  "productization": "简诗 AI canonical v1"
+}

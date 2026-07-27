@@ -1,0 +1,4 @@
+interface:
+  display_name: "增长流量·SEO流程助手｜简诗 AI"
+  short_description: "处理SEO流程助手相关任务"
+  default_prompt: "使用 $seo-flow 完成这项SEO流程助手任务，并给出可执行结果。"
